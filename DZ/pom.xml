@@ -39,7 +39,7 @@
                 <version>2.12.4</version>
                 <configuration>
                     <suiteXmlFiles>
-                        <suiteXmlFile>src/test/resources/regression.xml</suiteXmlFile>
+                        <suiteXmlFile>src/test/resources/getsetregression.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
